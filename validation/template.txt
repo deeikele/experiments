@@ -1,0 +1,39 @@
+Study ID: V-###
+Title:
+Owner:
+Status (planned / running / completed / cancelled):
+Planned dates:
+Hypothesis ID and path:
+Prototype ID, path, and exact version:
+
+Learning goal:
+Method (interview / usability session / survey / experiment):
+Recruitment criteria and customer segment:
+Planned participant count and rationale:
+Consent and anonymization approach (no personal records):
+
+Session protocol:
+- Introduction and neutral context:
+- Tasks or questions:
+- Observations to capture:
+- Closing questions:
+
+Predefined measures and decision rule:
+- Metric definitions, baseline, and collection method:
+- Pass and fail thresholds:
+- Inconclusive conditions:
+- Comparison or control (if applicable):
+- Stopping rule and time window:
+
+Results (complete after collection):
+- Actual dates and participant count:
+- Qualitative evidence IDs and source paths:
+- Measurement IDs and source paths:
+- Observed outcomes versus thresholds:
+- Contradictory or negative evidence:
+- Deviations from the plan:
+- Biases, uncertainty, and limitations:
+
+Conclusion (supported / refuted / inconclusive):
+Decision ID and path:
+Next action, owner, and due date:

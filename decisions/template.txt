@@ -1,0 +1,18 @@
+Decision ID: D-###
+Date (YYYY-MM-DD):
+Owner:
+Hypothesis ID and path:
+Study IDs and paths:
+Evidence IDs and source paths:
+
+Decision (proceed / iterate / stop / collect more evidence):
+What we learned:
+How results compare with the predefined decision rule:
+Rationale, including contradictory evidence:
+Uncertainty and remaining risks:
+
+Changes to the hypothesis or prototype:
+Next action:
+Action owner:
+Due date:
+When or under what conditions to revisit:
