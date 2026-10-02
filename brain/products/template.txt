@@ -1,0 +1,33 @@
+id: PR-<product-slug>
+last_updated: YYYY-MM-DD
+owners:
+
+one_liner:
+  # What is this product in one sentence?
+
+primary_users:
+  # Who uses it and in what role / context?
+
+jobs_to_be_done:
+  # - Job: ...
+  # - Job: ...
+
+core_capabilities:
+  # What it can do today. Keep this short and current.
+
+known_limits:
+  # Technical, UX, pricing, licensing, or policy limits that constrain
+  # what we can prototype on top of it.
+
+adjacent_products:
+  # Other products in our set this one depends on, extends, or competes with.
+
+current_bets:
+  # Active directions / investments (link to CO- or decision IDs).
+
+recent_changes:
+  # Dated bullet log of material changes to this product's picture.
+  # - YYYY-MM-DD: ... (ref: S-#### / CO-... / D-...)
+
+open_questions:
+  # -

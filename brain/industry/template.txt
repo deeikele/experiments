@@ -1,0 +1,28 @@
+id: IND-YYYY-MM-slug
+date: YYYY-MM-DD
+title:
+tags:                      # comma-separated, e.g. ai, dev-tools, pricing
+sources:                   # one URL or citation per line
+  -
+  -
+signal_refs:               # S-#### rows in signals.csv that back this note
+
+summary:
+  # 2-4 sentences. What is the trend or shift? Who is driving it?
+
+evidence:
+  # Bullet points of concrete datapoints, quotes, numbers, dates.
+
+so_what:
+  # Why does this matter for our product set? Which products or
+  # customer segments are affected? What would change if this is true?
+
+implications_for_products:
+  # - PR-<product>: specific implication
+  # - PR-<product>: specific implication
+
+open_questions:
+  # - What we don't yet know and how we might learn it.
+
+confidence: low | medium | high
+expires_or_revisit: YYYY-MM-DD    # when to re-check this trend

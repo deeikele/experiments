@@ -1,0 +1,2 @@
+id,date,type,title,summary,source_ref,tags,product_refs,confidence,note_ref
+S-0001,2026-01-01,industry,Example signal,"One-line what-you-saw summary.",https://example.com,"ai,dev-tools",PR-example,medium,IND-2026-01-example

@@ -1,0 +1,26 @@
+id: CO-YYYY-MM-slug
+date: YYYY-MM-DD
+title:
+tags:                      # e.g. strategy, gtm, org, pricing, platform
+sources:                   # internal docs, memos, meetings (anonymized if needed)
+  -
+signal_refs:
+
+summary:
+  # What is the internal signal or shift? Who said it, in what context?
+
+evidence:
+  # Concrete datapoints: metrics, quotes, decisions, deal patterns.
+
+so_what:
+  # How does this change priorities, constraints, or guardrails for our
+  # product set? What becomes more / less valuable to build?
+
+implications_for_products:
+  # - PR-<product>: ...
+
+open_questions:
+  # -
+
+confidence: low | medium | high
+expires_or_revisit: YYYY-MM-DD

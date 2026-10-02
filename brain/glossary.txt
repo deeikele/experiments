@@ -1,0 +1,10 @@
+# Glossary
+# One term per block. Keep definitions short and project-neutral.
+
+term:
+definition:
+see_also:
+
+term:
+definition:
+see_also:
