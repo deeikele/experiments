@@ -1,0 +1,28 @@
+Interview ID: I-###
+Date (YYYY-MM-DD):
+Researcher:
+Participant alias:
+Customer segment:
+Related hypothesis IDs:
+Related study ID (if applicable):
+Consent confirmed (do not attach consent records):
+
+Learning goal:
+
+Questions (ask about specific past behavior):
+- Tell me about the last time you encountered this problem.
+- What did you do, and what alternatives did you try?
+- How often does this happen? What does it cost in time or effort?
+- What worked poorly or prevented you from solving it?
+
+Anonymized notes:
+- Direct quotes:
+- Observed behavior:
+- Current workarounds:
+- Contradictory or unexpected evidence:
+
+Interpretations (separate from what the participant said or did):
+
+Follow-up questions:
+Qualitative observation IDs added to qualitative.csv:
+Measurement IDs added to quantitative.csv (if any):

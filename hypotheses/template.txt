@@ -1,0 +1,29 @@
+Hypothesis ID: H-###
+Title:
+Owner:
+Created (YYYY-MM-DD):
+Status (proposed / testing / supported / refuted / inconclusive):
+
+Customer segment and problem:
+Current behavior or workaround:
+Evidence IDs and source paths:
+Contradictory evidence IDs:
+
+Falsifiable hypothesis:
+We believe [segment] will [observable behavior] when [experience/change]
+because [reason].
+
+Riskiest assumption:
+What would disprove this assumption?
+Metric and operational definition:
+Baseline (or unknown):
+Pass threshold:
+Fail threshold:
+Inconclusive range or conditions:
+Required sample and time window:
+
+Related prototype IDs and paths:
+Related study IDs and paths:
+Latest result and limitations:
+Decision ID and path:
+Next action, owner, and due date:

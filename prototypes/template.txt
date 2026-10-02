@@ -1,0 +1,22 @@
+Prototype ID: P-###
+Title:
+Owner:
+Related hypothesis ID and path:
+Version tested (commit, tag, or artifact version):
+
+Learning goal and assumption being tested:
+Target customer segment:
+Experience or user journey:
+Included interactions:
+Out of scope:
+Fidelity (sketch / clickable mockup / runnable prototype):
+
+Artifacts (relative paths or public, non-sensitive links):
+How to open or run (include prerequisites and commands if applicable):
+How to reset between sessions:
+Synthetic data used:
+Known limitations and simulated behavior:
+
+Customer tasks (avoid revealing the intended solution):
+Observations or metrics to capture:
+Related study IDs and paths:
